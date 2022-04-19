@@ -1,4 +1,6 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://github.com/ankitiiitian)
+<div id="header" align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="900vmax" height="400vmax"/>
+</div>
   
 <h1 align="center">Hi 👋, This is Ankit Kumar</h1>
 <h3 align="center">Passionate Coder, Full Stack Web Developer, Soon become as a SDE</h3>
