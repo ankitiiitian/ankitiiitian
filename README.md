@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitiiitian&label=Profile%20views&color=0e75b6&style=flat" alt="ankitiiitian" /> </p>
 
-  <img src="https://stockmarketexperts.co.in/wp-content/uploads/2021/11/stock_anim.gif" align="right" width="300"/>
+  <img src="https://stockmarketexperts.co.in/wp-content/uploads/2021/11/stock_anim.gif" align="right" width="300vmax"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitiiitian" alt="ankitiiitian" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitmajorkuma1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitmajorkuma1?logo=twitter&style=for-the-badge" alt="ankitmajorkuma1" /></a> </p>
