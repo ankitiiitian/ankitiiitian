@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="900vmax" height="400vmax"/>
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="900vmax" height="500vmax"/>
 </div>
   
 <h1 align="center">Hi 👋, This is Ankit Kumar</h1>
