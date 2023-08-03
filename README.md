@@ -3,7 +3,7 @@
 </div>
   
 <h1 align="center">Hi 👋, This is Ankit Kumar</h1>
-<h3 align="center">Passionate Coder, Full Stack Web Developer, Soon become as a SDE</h3>
+<h3 align="center">Passionate Coder, Full Stack Web Developer & An ASE</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitiiitian&label=Profile%20views&color=0e75b6&style=flat" alt="ankitiiitian" /> </p>
