@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitmajorkuma1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitmajorkuma1?logo=twitter&style=for-the-badge" alt="ankitmajorkuma1" /></a> </p>
 
-- 🔭 I’m currently Computer Science student in [Indian Institute of Information Technology Guwahati](https://www.iiitg.ac.in/)
+- 🔭 I pursued my B.Tech. in Computer Science Engineering from [Indian Institute of Information Technology Guwahati](https://www.iiitg.ac.in/)
 
-- 🌱 I’m currently learning **MongoDB, React Native, DSA**
+- 🌱 I’m currently learning **New Stacks**
 
 - 👯 I’m currently looking for **Web Dev Intern or SDE Intern**
 
